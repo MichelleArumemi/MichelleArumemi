@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichelleArumemi
+- 👋 Hi, I’m Michelle
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Php
 - 📫 How to reach me michellearumemi26@gmail.com
